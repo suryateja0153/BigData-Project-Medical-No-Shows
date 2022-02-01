@@ -213,6 +213,8 @@ df.printSchema()
   <img src="Media/Image7.jpg" />
 </p>
 
+![](Media/Image7.jpg)
+
 Test Area Under ROC: 0.609
 
 #### Decision Tree Classifier
