@@ -210,10 +210,8 @@ df.printSchema()
 **Model Predictions**<br>
 
 <p align="center">
-  <img src="Media/Image7.jpg" />
+  <img src="Media/Image7.JPG" />
 </p>
-
-![](Media/Image7.jpg)
 
 Test Area Under ROC: 0.609
 
@@ -222,7 +220,7 @@ Test Area Under ROC: 0.609
 **Model Predictions**<br>
 
 <p align="center">
-  <img src="Media/Image8.jpg" />
+  <img src="Media/Image8.JPG" />
 </p>
 
 Test Area Under ROC: 0.5
@@ -232,7 +230,7 @@ Test Area Under ROC: 0.5
 **Model Predictions**<br>
 
 <p align="center">
-  <img src="Media/Image9.jpg" />
+  <img src="Media/Image9.JPG" />
 </p>
 
 Test Area Under ROC: 0.59
@@ -242,7 +240,7 @@ Test Area Under ROC: 0.59
 **Model Predictions**<br>
 
 <p align="center">
-  <img src="Media/Image10.jpg" />
+  <img src="Media/Image10.JPG" />
 </p>
 
 Test Area Under ROC: 0.604
