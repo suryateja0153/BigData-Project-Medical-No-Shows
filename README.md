@@ -207,7 +207,7 @@ df.printSchema()
   <img src="Media/Image6.png" />
 </p>
 
-**Model Predictions**
+**Model Predictions**<br>
 
 <p align="center">
   <img src="Media/Image7.jpg" />
@@ -217,7 +217,7 @@ Test Area Under ROC: 0.609
 
 #### Decision Tree Classifier
 
-**Model Predictions**
+**Model Predictions**<br>
 
 <p align="center">
   <img src="Media/Image8.jpg" />
@@ -227,7 +227,7 @@ Test Area Under ROC: 0.5
 
 #### Random Forest
 
-**Model Predictions**
+**Model Predictions**<br>
 
 <p align="center">
   <img src="Media/Image9.jpg" />
@@ -237,7 +237,7 @@ Test Area Under ROC: 0.59
 
 #### Gradient-Boosted Tree Classifier
 
-**Model Predictions**
+**Model Predictions**<br>
 
 <p align="center">
   <img src="Media/Image10.jpg" />
